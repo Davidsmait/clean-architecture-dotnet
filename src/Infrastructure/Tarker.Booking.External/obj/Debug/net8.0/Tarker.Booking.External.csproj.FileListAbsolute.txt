@@ -1,0 +1,11 @@
+/Users/cesarlara/Documents/david san/proyectos/net/Tarker.Booking/src/Infrastructure/Tarker.Booking.External/bin/Debug/net8.0/Tarker.Booking.External.deps.json
+/Users/cesarlara/Documents/david san/proyectos/net/Tarker.Booking/src/Infrastructure/Tarker.Booking.External/bin/Debug/net8.0/Tarker.Booking.External.dll
+/Users/cesarlara/Documents/david san/proyectos/net/Tarker.Booking/src/Infrastructure/Tarker.Booking.External/bin/Debug/net8.0/Tarker.Booking.External.pdb
+/Users/cesarlara/Documents/david san/proyectos/net/Tarker.Booking/src/Infrastructure/Tarker.Booking.External/obj/Debug/net8.0/Tarker.Booking.External.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cesarlara/Documents/david san/proyectos/net/Tarker.Booking/src/Infrastructure/Tarker.Booking.External/obj/Debug/net8.0/Tarker.Booking.External.AssemblyInfoInputs.cache
+/Users/cesarlara/Documents/david san/proyectos/net/Tarker.Booking/src/Infrastructure/Tarker.Booking.External/obj/Debug/net8.0/Tarker.Booking.External.AssemblyInfo.cs
+/Users/cesarlara/Documents/david san/proyectos/net/Tarker.Booking/src/Infrastructure/Tarker.Booking.External/obj/Debug/net8.0/Tarker.Booking.External.csproj.CoreCompileInputs.cache
+/Users/cesarlara/Documents/david san/proyectos/net/Tarker.Booking/src/Infrastructure/Tarker.Booking.External/obj/Debug/net8.0/Tarker.Booking.External.dll
+/Users/cesarlara/Documents/david san/proyectos/net/Tarker.Booking/src/Infrastructure/Tarker.Booking.External/obj/Debug/net8.0/refint/Tarker.Booking.External.dll
+/Users/cesarlara/Documents/david san/proyectos/net/Tarker.Booking/src/Infrastructure/Tarker.Booking.External/obj/Debug/net8.0/Tarker.Booking.External.pdb
+/Users/cesarlara/Documents/david san/proyectos/net/Tarker.Booking/src/Infrastructure/Tarker.Booking.External/obj/Debug/net8.0/ref/Tarker.Booking.External.dll
