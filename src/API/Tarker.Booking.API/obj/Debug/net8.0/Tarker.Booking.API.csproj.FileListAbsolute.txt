@@ -31,3 +31,4 @@
 /Users/cesarlara/Documents/david san/proyectos/net/Tarker.Booking/src/API/Tarker.Booking.API/obj/Debug/net8.0/Tarker.Booking.API.pdb
 /Users/cesarlara/Documents/david san/proyectos/net/Tarker.Booking/src/API/Tarker.Booking.API/obj/Debug/net8.0/Tarker.Booking.API.genruntimeconfig.cache
 /Users/cesarlara/Documents/david san/proyectos/net/Tarker.Booking/src/API/Tarker.Booking.API/obj/Debug/net8.0/ref/Tarker.Booking.API.dll
+/Users/cesarlara/Documents/david san/proyectos/net/Tarker.Booking/src/API/Tarker.Booking.API/obj/Debug/net8.0/Tarker.Booking.API.sourcelink.json

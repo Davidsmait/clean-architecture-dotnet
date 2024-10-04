@@ -9,3 +9,4 @@
 /Users/cesarlara/Documents/david san/proyectos/net/Tarker.Booking/src/Common/Tarker.Booking.Common/obj/Debug/net8.0/refint/Tarker.Booking.Common.dll
 /Users/cesarlara/Documents/david san/proyectos/net/Tarker.Booking/src/Common/Tarker.Booking.Common/obj/Debug/net8.0/Tarker.Booking.Common.pdb
 /Users/cesarlara/Documents/david san/proyectos/net/Tarker.Booking/src/Common/Tarker.Booking.Common/obj/Debug/net8.0/ref/Tarker.Booking.Common.dll
+/Users/cesarlara/Documents/david san/proyectos/net/Tarker.Booking/src/Common/Tarker.Booking.Common/obj/Debug/net8.0/Tarker.Booking.Common.sourcelink.json
