@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tarker.Booking.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82c8791a50238bc5f9514e581d83bb96c3551234")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a13cbadd334a17895f883739001c129f46a219b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tarker.Booking.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tarker.Booking.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
